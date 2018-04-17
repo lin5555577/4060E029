@@ -1,6 +1,6 @@
 # 4060E029
 
-###### exercise1 矩陣相加
+###### exercise1 矩陣相加 2018/4/17
 
 ```
 #include <stdio.h>
@@ -39,7 +39,7 @@ return 0;
 
 ```
 
-###### exercise2 矩陣相乘
+###### exercise2 矩陣相乘 2018/4/17
 
 ```
 #include <stdio.h>
