@@ -78,7 +78,25 @@ return 0;
 
 
 ```
+###### exercise1
+
+```
+#include <iostream>
+using namespace std;
+int main()
+{
+	int i,a[10];
+
+	for(i=0;i<10;i++)
+		a[i]=i;
+
+	for(i=0;i<10;i++)
+		cout << a[i] << endl;
+		
+			cout << "4060E029 2018.04.17" << endl;
+    return 0;
+}
 
 
-
+```
 
