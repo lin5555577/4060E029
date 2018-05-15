@@ -217,8 +217,8 @@ int main()
 
 
 ```
-![result](PIC/1234.PNG)
-![result](PIC/5678.PNG)
+![result](pic/1234.PNG)
+![result](pic/5678.PNG)
 ###### exercise4
 ```
 
