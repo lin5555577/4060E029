@@ -214,15 +214,11 @@ int main()
 	return 0;
 }
 
-![result](PIC/1234.PNG)
-![result](PIC/5678.PNG)
-
-
-
-
 
 
 ```
+![result](PIC/1234.PNG)
+![result](PIC/5678.PNG)
 ###### exercise4
 ```
 
